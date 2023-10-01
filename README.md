@@ -18,6 +18,8 @@ Part 1
 
 ![image](https://github.com/carab9/pyqt-ui/blob/main/pyqt_ui1.png?raw=true)
 
+![image](https://github.com/carab9/pyqt-ui/blob/main/pyqt_ui4.png?raw=true)
+
 Part 2
 
 ![image](https://github.com/carab9/pyqt-ui/blob/main/pyqt_ui2.png?raw=true)
